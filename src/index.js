@@ -1,4 +1,4 @@
-import must from './must.js';
+import must from './scraper/must.js';
 import fs from 'node:fs';
 
 const FOLDER_NAME = "must_exports";
